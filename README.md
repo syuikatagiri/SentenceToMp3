@@ -1,7 +1,7 @@
 # SentenceToMp3
 テキストに記述された文章をMP3に変換するプログラム。
 
-https://soundoftext.com/というWebサイトがあり、
+https://soundoftext.com/　というWebサイトがあり、
 入力された文章から「合成音声で読み上げたMP3形式のファイル」を作成してくれるWebサイトである。
 
 MP3ファイルを作成するためには、
